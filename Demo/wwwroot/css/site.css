@@ -60,11 +60,15 @@ a, .btn-link {
     background-color: #80ced6;
     padding: 20px;
     color: white;
-    width: 150px;
+    width: 180px;
     height: 120px;
 }
 
 .counter-buttons {
     display: flex;
     justify-content: space-between;
+}
+
+.count-text {
+    text-align: center;
 }
