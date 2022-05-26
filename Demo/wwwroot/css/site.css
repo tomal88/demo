@@ -57,7 +57,7 @@ a, .btn-link {
 .wrapper {
     margin: auto;
     border: 2px solid green;
-    background: grey;
+    background-color: #80ced6;
     padding: 20px;
     color: white;
     width: 150px;
