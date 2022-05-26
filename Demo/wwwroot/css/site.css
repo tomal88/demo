@@ -60,4 +60,15 @@ a, .btn-link {
     background: grey;
     padding: 20px;
     color: white;
+    width: 120px;
+    height: 120px;
+}
+
+.counter-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.counter-buttons .oi {
+    cursor: pointer;
 }
